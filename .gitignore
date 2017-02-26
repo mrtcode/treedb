@@ -1,0 +1,12 @@
+*
+!bin
+bin/*
+!bin/.keep
+!src
+!src/*
+!src/lib/*
+!.gitignore
+!CMakeLists.txt
+!README.md
+
+
